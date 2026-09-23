@@ -104,8 +104,8 @@ If you're hiring or know a team that is, feel free to reach out via [LinkedIn](h
 - **Stack:** Next.js, React, TypeScript, Tailwind CSS
 - 🔗 [karyar.app](https://karyar.app)
 
-#### 🎓 SMKO Academy & 📞 CallMeGuide
-> Frontend contributions using Next.js and modern JavaScript across both platforms.
+#### 📞 CallMeGuide
+> Frontend contribution using Next.js and modern JavaScript.
 
 #### 🎮 React Native Mobile Game
 > Currently in development — full lifecycle from architecture to release.
